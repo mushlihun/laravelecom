@@ -89,8 +89,8 @@ Many more....
 
 ### Screenshots :
 ## ScreenShot <br />
- <img src="https://github.com/mushlihun/laravelecom/blob/master/storage/1.PNG" with="100" alt="screehshot">
- <img src="https://github.com/mushlihun/laravelecom/blob/master/storage/2.PNG" with="100" alt="screehshot">
+ <img src="1.PNG" with="100" alt="screehshot">
+ <img src="2.PNG" with="100" alt="screehshot">
 
 
 
