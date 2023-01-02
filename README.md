@@ -88,8 +88,9 @@ Many more....
 
 
 ### Screenshots :
-https://github.com/mushlihun/laravelecom/blob/master/storage/1.PNG
-https://github.com/mushlihun/laravelecom/blob/master/storage/2.PNG
+## ScreenShot <br />
+ <img src="https://github.com/mushlihun/laravelecom/blob/master/storage/1.PNG" with="100" alt="screehshot">
+ <img src="https://github.com/mushlihun/laravelecom/blob/master/storage/2.PNG" with="100" alt="screehshot">
 
 
 
